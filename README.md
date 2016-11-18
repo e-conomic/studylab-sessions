@@ -86,8 +86,22 @@ and another on Windows running in a VM.
 * Branching and merging.
 * Pull Requests on github
 
-
 # Links
 * https://guides.github.com/ (Learn how to use git and GitHub)
 * https://git-scm.com/about/ (Why and How git was build)
 * https://education.github.com/pack (Github offers and education pack, that includes private repos - otherwise your projects will be visable to everybody
+
+### Instructors
+<p align="center">
+<img height="100" src="https://dl.dropboxusercontent.com/u/9021554/e-conomic/anders_mug.png">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img height="100" src="https://dl.dropboxusercontent.com/u/9021554/e-conomic/jonas_mug.jpg">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img height="100" src="https://dl.dropboxusercontent.com/u/9021554/e-conomic/ssn_mug.png">
+</p>
