@@ -15,7 +15,7 @@ apply your newly learned skills.
 
 Bring your laptop.
 
-### Prerequisites:
+## Prerequisites:
 1. [Create a GitHub account](https://github.com/join)
 2. Download and install
 
@@ -27,27 +27,27 @@ Bring your laptop.
     * OSX: Terminal
     * Windows: Git Bash
     
-4. Tell Git your name so your commits will be properly labeled.
+4. Tell Git your name so your commits will be properly labeled
 
         git config --global user.name "YOUR NAME"
 
-5. Tell Git the email address that will be associated with your Git commits.
+5. Tell Git the email address that will be associated with your Git commits
 
         git config --global user.email "YOUR EMAIL ADDRESS"
 
-# Session overview
+## Session overview
 
 ### Introduction
-* Presentation of us, our background, where we work, why we are here.
+* Presentation of us, our background, where we work, why we are here
 * Presentation of you - by raising hands 
    * How far in education?
    * How many have used git?
    * How have you shared code so far?
 * Why Git?
-    * Why not email/Dropbox/googledocs.
+    * Why not email/Dropbox/googledocs
     * Git is for plain text - not a Dropbox replacement
     * How does Git solve it?
-    * Highlevel view of Git across multiple machines.
+    * Highlevel view of Git across multiple machines
     * Git in a bigger setup - many devs, production machines, tests
     * GitHub
 
