@@ -18,8 +18,9 @@ Bring your laptop.
 ### Prerequisites:
 1. [Create a GitHub account](https://github.com/join)
 2. Download, install and setting up git
-   * OSX: https://git-scm.com/download/mac
-   * WINDOWS: https://git-for-windows.github.io
+
+   * Download Windows package from https://git-for-windows.github.io
+   * Download OSX package https://git-scm.com/download/mac
    
 3. On your computer, open the Terminal application.
 4. Tell Git your name so your commits will be properly labeled. Type everything after the $ here:
