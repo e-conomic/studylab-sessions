@@ -51,11 +51,12 @@ Bring your laptop.
     * Git in a bigger setup - many devs, production machines, tests
     * GitHub
 
-### Demo
+### Workshop
 
-We will demo git using GitHub and two developer machines. One developer machine on the mac,
-and another on Windows running in a VM.
+The workshop consists of three parts. We will introduce some concepts, that you will then have to replicate on your own and in teams of two. We will demo git using GitHub and two developer machines. One developer machine on the mac,
+and another on Windows running in a VM. 
 
+#### Part 1 - Getting started
 * Create a repository on Github with a Readme file
 * Switch to the terminal
    * `pwd`, `open .`, `ls`, `cd`, `clear`
@@ -63,6 +64,8 @@ and another on Windows running in a VM.
 * Clone the created repository on Computer 1
 * Add an empty file on Computer 1 and push
    * Here, you might have to put in your GitHub username and password
+   
+#### Part 2 - Working together
 * Clone the created Repository on Computer 2
 * Add a Java class with two empty methods to the file on Computer 2 and push
    * Permission to repo denied - Add Computer 2 user as collaborator from Computer 1 on GitHub
@@ -72,14 +75,12 @@ and another on Windows running in a VM.
 * Add some code in the second method on Computer 2 and push
   * Cannot push - pull before push and see that changes has been merged
 * Pull changes on Computer 1
+
+#### Part 3 - Resolving merge conflicts
 * Change something in the first method on Computer 1 and push
 * Change something in the first method on Computer 2 and push
   * Cannot push - pull before push and see merge conflict
 * Resolve merge conflict
-
-
-### Workshop
-* 2x2 reproduce what was done in the demo
 
 ### Next steps.
 * Branching and merging.
