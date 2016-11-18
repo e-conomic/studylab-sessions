@@ -17,8 +17,18 @@ Bring your laptop.
 
 ### Prerequisites:
 * [Create a GitHub account](https://github.com/join)
-* [Download, install and setting up git](https://help.github.com/articles/set-up-git/#setting-up-git)
+* Download, install and setting up git
+   * OSX: https://git-scm.com/download/mac
+   * WINDOWS: https://git-for-windows.github.io
+   
+1. On your computer, open the Terminal application.
+2. Tell Git your name so your commits will be properly labeled. Type everything after the $ here:
 
+    git config --global user.name "YOUR NAME"
+
+3. Tell Git the email address that will be associated with your Git commits. The email you specify should be the same one found in your email settings. To keep your email address hidden, see "Keeping your email address private".
+
+    git config --global user.email "YOUR EMAIL ADDRESS"
 
 # Session overview
 
