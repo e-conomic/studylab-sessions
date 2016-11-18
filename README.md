@@ -57,13 +57,13 @@ and another on Windows running in a VM.
 * Pull Requests on github.
 
 
-# Thoughts and links (brunsgaard)
-* I think we should encourage CLI, there are alot of git desktop tools
-* https://guides.github.com/
+# Links
+* https://guides.github.com/ (Learn how to use git and GitHub)
+* https://git-scm.com/about/ (Why and How git was build)
+
 * Github offers and education pack, that includes private repos (Otherwise your projects will be visable to everybody)
 * https://help.github.com/articles/set-up-git/
-* https://guides.github.com/activities/hello-world/
-* https://git-scm.com/about/ (Why and How git was build)
+
 * binarydata vs plaintext (bad for word documents)
 * Git blame, git logs, force push
 * File size limtes
