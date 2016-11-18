@@ -31,7 +31,7 @@ Bring your laptop.
     * Git in a bigger setup - many devs, production machines, tests
     * GitHub
 
-* Demo
+### Demo
 
 We will demo git using GitHub and two developer machines. One developer machine on the mac,
 and another on Windows running in a VM.
