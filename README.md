@@ -29,7 +29,7 @@ Bring your laptop.
 * Presentation of you - by raising hands 
    * How far in education?
    * How many have used git?
-   * ...
+   * How have you shared code so far?
 * Why Git?
     * Why not email/Dropbox/googledocs.
     * Git is for plain text - not a Dropbox replacement
