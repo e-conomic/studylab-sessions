@@ -17,7 +17,7 @@ Bring your laptop.
 
 ### Prerequisites:
 * [Create a GitHub account](https://github.com/join)
-* [Installing git](https://help.github.com/articles/set-up-git/#setting-up-git)
+* [Download, install and setting up git](https://help.github.com/articles/set-up-git/#setting-up-git)
 
 
 # Session overview
