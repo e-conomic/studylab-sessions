@@ -16,10 +16,8 @@ apply your newly learned skills.
 Bring your laptop.
 
 ### Prerequisites:
-* A GitHub account: https://github.com/
-* Git command line installed.
-    * Windows: https://git-for-windows.github.io/
-    * Mac/Linux: open "Terminal" and type "git" - it is probably already installed.
+* (Create a GitHub account)[https://github.com/join]
+* (Installing git)[https://help.github.com/articles/set-up-git/#setting-up-git]
 
 
 # Session overview
