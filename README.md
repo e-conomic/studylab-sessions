@@ -49,6 +49,7 @@ and another on Windows running in a VM.
 * Navigate to desired folder
 * Clone the created repository on Computer 1
 * Add an empty file on Computer 1 and push
+   * Here, you might have to put in your GitHub username and password
 * Clone the created Repository on Computer 2
 * Add a Java class with two empty methods to the file on Computer 2 and push
    * Permission to repo denied - Add Computer 2 user as collaborator from Computer 1 on GitHub
