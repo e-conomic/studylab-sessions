@@ -22,7 +22,7 @@ Bring your laptop.
    * [Download Windows package](https://git-for-windows.github.io)
    * [Download OSX package](https://git-scm.com)
    
-3. On your computer, open the Terminal application.
+3. On your computer, open the `Terminal`/`Git Bash` application.
 4. Tell Git your name so your commits will be properly labeled.
 
         git config --global user.name "YOUR NAME"
