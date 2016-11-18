@@ -15,7 +15,7 @@ apply your newly learned skills.
 
 Bring your laptop.
 
-### Prerequisites:
+### Prerequisits:
 * A GitHub account: https://github.com/
 * Git command line installed.
     * Windows: https://git-for-windows.github.io/
@@ -23,29 +23,32 @@ Bring your laptop.
 
 
 ### Notes for demo and workshop:
+
 * Presentation of us, our background, where we work, why we are here.
 * Overview of the session
-    * Why Git? Why not email/Dropbox/googledocs. (Made for the Linux kernel project)
-    * How does Git solve it.
+    * Why Git? Why not email/Dropbox/googledocs.
+    * How does Git solve it?
     * Highlevel view of Git across multiple machines.
     * Git in a bigger setup - many devs, production machines, tests
     * GitHub
 
 * Demo
-    * Create repository on Github
-    * The terminal - navigate the file system
-    * Git from GUIs can be done, but command line often easier to understand, and most people do this
-    * Clone repository
-    * Add file, commit push to github
-    * Get the file on another computer.
-    * Make code change to the file (e.g. class with two methods)
-    * Status add commit push
-    * Other computer does not have those changes - show this on some diagram
-    *   Show this on other computer? Ie in virtual machine? Git bash for Windows..
+We will demo git using GitHub and two developer machines. One developer machine on the mac,
+and another on Windows running in a VM.
+    * Creating a repository on Github
+    * The terminal - navigating the file system
+    * Git from GUIs vs the command line
+    * Cloning a repository
+    * Adding files and pushing them to GitHub
+        * `status`, `add`, `commit`, `push`
+    * Getting the file on another computer
+    * Adding code changes (e.g. class with two methods)
+        * Git is for plain text - it is not your Dropbox replacement
+    * Other computer does not have those changes yet, GitHub does
     * Make change on Windows, push
     * Make change on OSX push -> fail -> pull -> push
-    * Make OSX conflicting change push
-    * Make Windows conflicting change pull - resolve merge conflict
+    * Make conflicting change and push it
+    * Make Windows conflicting change pull - resolve merge conflict and push
 
 ### Workshop
 * 2x2 reproduce what was done in the demo
