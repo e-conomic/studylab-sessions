@@ -60,10 +60,4 @@ and another on Windows running in a VM.
 # Links
 * https://guides.github.com/ (Learn how to use git and GitHub)
 * https://git-scm.com/about/ (Why and How git was build)
-
-* Github offers and education pack, that includes private repos (Otherwise your projects will be visable to everybody)
-* https://help.github.com/articles/set-up-git/
-
-* binarydata vs plaintext (bad for word documents)
-* Git blame, git logs, force push
-* File size limtes
+* https://education.github.com/pack (Github offers and education pack, that includes private repos - otherwise your projects will be visable to everybody
