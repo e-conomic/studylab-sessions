@@ -105,3 +105,4 @@ and another on Windows running in a VM.
 &nbsp;
 <img height="100" src="https://dl.dropboxusercontent.com/u/9021554/e-conomic/ssn_mug.png">
 </p>
+Anders, Jonas, and Søren are full time developers at e-conomic International. They use Git on a daily basis. Anders and Søren have a MSc in Software engineering from ITU, and Jonas from DIKU.
