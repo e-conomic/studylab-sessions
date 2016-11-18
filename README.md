@@ -24,8 +24,8 @@ Bring your laptop.
    
 3. On your computer open the program 
 
-    * OSX: Terminal
     * Windows: Git Bash
+    * OSX: Terminal
     
 4. Tell Git your name so your commits will be properly labeled
 
@@ -84,7 +84,7 @@ and another on Windows running in a VM.
 
 ### Next steps.
 * Branching and merging.
-* Pull Requests on github.
+* Pull Requests on github
 
 
 # Links
