@@ -9,7 +9,7 @@ for a longer introduction.
 In this session, three full time developers from e-conomic, will give an
 introduction and workshop on a VCS called Git, and how it is used together
 with GitHub.com. You will learn how Git is used in a larger software setup,
-and why it indispensable tool for building software in teams. We will
+and why it is an indispensable tool for building software in teams. We will
 introduce you to some Git basics, and follow up with a workshop where you will
 apply your newly learned skills.
 
