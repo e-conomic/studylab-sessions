@@ -36,20 +36,20 @@ Bring your laptop.
 We will demo git using GitHub and two developer machines. One developer machine on the mac,
 and another on Windows running in a VM.
 
-    * Creating a repository on Github
-    * The terminal - navigating the file system
-    * Git from GUIs vs the command line
-    * Cloning a repository
-    * Adding files and pushing them to GitHub
-        * `status`, `add`, `commit`, `push`
-    * Getting the file on another computer
-    * Adding code changes (e.g. class with two methods)
-        * Git is for plain text - it is not your Dropbox replacement
-    * Other computer does not have those changes yet, GitHub does
-    * Make change on Windows, push
-    * Make change on OSX push -> fail -> pull -> push
-    * Make conflicting change and push it
-    * Make Windows conflicting change pull - resolve merge conflict and push
+ * Creating a repository on Github
+ * The terminal - navigating the file system
+ * Git from GUIs vs the command line
+ * Cloning a repository
+ * Adding files and pushing them to GitHub
+     * `status`, `add`, `commit`, `push`
+ * Getting the file on another computer
+ * Adding code changes (e.g. class with two methods)
+     * Git is for plain text - it is not your Dropbox replacement
+ * Other computer does not have those changes yet, GitHub does
+ * Make change on Windows, push
+ * Make change on OSX push -> fail -> pull -> push
+ * Make conflicting change and push it
+ * Make Windows conflicting change pull - resolve merge conflict and push
 
 ### Workshop
 * 2x2 reproduce what was done in the demo
