@@ -43,7 +43,7 @@ Bring your laptop.
 We will demo git using GitHub and two developer machines. One developer machine on the mac,
 and another on Windows running in a VM.
 
-* Create a repository on Github
+* Create a repository on Github with a Readme file
 * Switch to the terminal
 * Navigate to desired folder
 * Clone the created repository on Computer 1
