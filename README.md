@@ -32,6 +32,7 @@ Bring your laptop.
    * ...
 * Why Git?
     * Why not email/Dropbox/googledocs.
+    * Git is for plain text - not a Dropbox replacement
     * How does Git solve it?
     * Highlevel view of Git across multiple machines.
     * Git in a bigger setup - many devs, production machines, tests
@@ -50,7 +51,6 @@ and another on Windows running in a VM.
      * `status`, `add`, `commit`, `push`
  * Getting the file on another computer
  * Adding code changes (e.g. class with two methods)
-     * Git is for plain text - it is not your Dropbox replacement
  * Other computer does not have those changes yet, GitHub does
  * Make change on Windows, push
  * Make change on OSX push -> fail -> pull -> push
