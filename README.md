@@ -15,7 +15,7 @@ apply your newly learned skills.
 
 Bring your laptop.
 
-### Prerequisits:
+### Prerequisites:
 * A GitHub account: https://github.com/
 * Git command line installed.
     * Windows: https://git-for-windows.github.io/
@@ -23,7 +23,6 @@ Bring your laptop.
 
 
 ### Notes for demo and workshop:
-
 * Presentation of us, our background, where we work, why we are here.
 * Overview of the session
     * Why Git? Why not email/Dropbox/googledocs.
