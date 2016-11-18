@@ -22,7 +22,9 @@ Bring your laptop.
     * Mac/Linux: open "Terminal" and type "git" - it is probably already installed.
 
 
-### Notes for demo and workshop:
+# Session overview
+
+### Introduction
 * Presentation of us, our background, where we work, why we are here.
 * Overview of the session
     * Why Git? Why not email/Dropbox/googledocs.
