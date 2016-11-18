@@ -32,8 +32,10 @@ Bring your laptop.
     * GitHub
 
 * Demo
+
 We will demo git using GitHub and two developer machines. One developer machine on the mac,
 and another on Windows running in a VM.
+
     * Creating a repository on Github
     * The terminal - navigating the file system
     * Git from GUIs vs the command line
