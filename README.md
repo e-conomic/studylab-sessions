@@ -91,7 +91,7 @@ and another on Windows running in a VM.
 * https://git-scm.com/about/ (Why and How git was build)
 * https://education.github.com/pack (Github offers and education pack, that includes private repos - otherwise your projects will be visable to everybody
 
-### Instructors
+# Instructors
 <p align="center">
 <img height="100" src="https://dl.dropboxusercontent.com/u/9021554/e-conomic/anders_mug.png">
 &nbsp;
