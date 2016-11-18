@@ -50,6 +50,8 @@ and another on Windows running in a VM.
 * Add an empty file on Computer 1 and push
 * Clone the created Repository on Computer 2
 * Add a Java class with two empty methods to the file on Computer 2 and push
+   * Permission to repo denied
+* Add Computer 2 user as collaborator from Computer 1 on GitHub
 * Notice that the file is not automatically updated on Computer 1
 * Pull changes on Computer 1
 * Add some code in the first method on Computer 1 and push
