@@ -26,8 +26,12 @@ Bring your laptop.
 
 ### Introduction
 * Presentation of us, our background, where we work, why we are here.
-* Overview of the session
-    * Why Git? Why not email/Dropbox/googledocs.
+* Presentation of you - by raising hands 
+   * How far in education?
+   * How many have used git?
+   * ...
+* Why Git?
+    * Why not email/Dropbox/googledocs.
     * How does Git solve it?
     * Highlevel view of Git across multiple machines.
     * Git in a bigger setup - many devs, production machines, tests
