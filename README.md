@@ -43,20 +43,6 @@ Bring your laptop.
 We will demo git using GitHub and two developer machines. One developer machine on the mac,
 and another on Windows running in a VM.
 
- * Creating a repository on Github
- * The terminal - navigating the file system
- * Git from GUIs vs the command line
- * Cloning a repository
- * Adding files and pushing them to GitHub
-     * `status`, `add`, `commit`, `push`
- * Getting the file on another computer
- * Adding code changes (e.g. class with two methods)
- * Other computer does not have those changes yet, GitHub does
- * Make change on Windows, push
- * Make change on OSX push -> fail -> pull -> push
- * Make conflicting change and push it
- * Make Windows conflicting change pull - resolve merge conflict and push
- 
 * Create a repository on Github
 * Switch to the terminal
 * Navigate to desired folder
@@ -66,8 +52,14 @@ and another on Windows running in a VM.
 * Add a Java class with two empty methods to the file on Computer 2 and push
 * Notice that the file is not automatically updated on Computer 1
 * Pull changes on Computer 1
-* Add some code in the first method on Computer 1
-* ...
+* Add some code in the first method on Computer 1 and push
+* Add some code in the second method on Computer 2 and push
+  * Cannot push - pull before push and see that changes has been merged
+* Pull changes on Computer 1
+* Change something in the first method on Computer 1 and push
+* Change something in the first method on Computer 2 and push
+  * Cannot push - pull before push and see merge conflict
+* Resolve merge conflict
 
 
 ### Workshop
