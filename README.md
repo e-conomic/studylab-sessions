@@ -56,6 +56,19 @@ and another on Windows running in a VM.
  * Make change on OSX push -> fail -> pull -> push
  * Make conflicting change and push it
  * Make Windows conflicting change pull - resolve merge conflict and push
+ 
+* Create a repository on Github
+* Switch to the terminal
+* Navigate to desired folder
+* Clone the created repository on Computer 1
+* Add an empty file on Computer 1 and push
+* Clone the created Repository on Computer 2
+* Add a Java class with two empty methods to the file on Computer 2 and push
+* Notice that the file is not automatically updated on Computer 1
+* Pull changes on Computer 1
+* Add some code in the first method on Computer 1
+* ...
+
 
 ### Workshop
 * 2x2 reproduce what was done in the demo
