@@ -16,8 +16,8 @@ apply your newly learned skills.
 Bring your laptop.
 
 ### Prerequisites:
-* (Create a GitHub account)[https://github.com/join]
-* (Installing git)[https://help.github.com/articles/set-up-git/#setting-up-git]
+* [Create a GitHub account](https://github.com/join)
+* [Installing git](https://help.github.com/articles/set-up-git/#setting-up-git)
 
 
 # Session overview
