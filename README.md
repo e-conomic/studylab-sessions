@@ -45,7 +45,7 @@ and another on Windows running in a VM.
 
 * Create a repository on Github with a Readme file
 * Switch to the terminal
-   * `pwd`, `open .`, `ls`, `cd` 
+   * `pwd`, `open .`, `ls`, `cd`, `clear`
 * Navigate to desired folder
 * Clone the created repository on Computer 1
 * Add an empty file on Computer 1 and push
